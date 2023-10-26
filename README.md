@@ -1,5 +1,8 @@
 ## [우아한테크코스](https://www.woowacourse.io/) 학습 과정
 
+![X0DpKbGkVOTh4kLThFEF5lzdBwHvvHiGir7S7kRLGUv6AnnsklU5MhkHrDQrMlWa_aI2IuKL6Q5Wmj0OZ7OVxBj6rp9qNkUUatrC_Bf9RZI5gQhm99mEmq8SZ3rW8Gp25D-WU4oGP79fQBuw4d_gqg](https://github.com/tmdgh1592/buna-woowacourse/assets/56534241/145f8e0b-2bac-4d46-88f8-f56e557b6517)
+
+
 ## 프리코스
 
 |Project|Repository|회고|
