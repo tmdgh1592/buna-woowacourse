@@ -55,7 +55,7 @@
 
 ## 💎 레벨 3 (2023.06.27 ~ 2023.08.18)
 
-### Kerdy 서비스 개발 (IT 컨퍼런스 일정, 후기 제공 / 동행자 모집)
+### 🧑🏻‍💻 Kerdy 서비스 개발 (IT 컨퍼런스 일정, 후기 제공 / 동행자 모집)
 - [서비스 링크](https://play.google.com/store/apps/details?id=com.emmsale&hl=ko-KR)
 - [Github](https://github.com/woowacourse-teams/2023-emmsale)
 - [Velog 소개](https://velog.io/@kerdy-official/IT-%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4%EC%97%90-%EA%B4%80%EC%8B%AC%EC%9D%B4-%EC%9E%88%EB%8B%A4%EB%A9%B4)
