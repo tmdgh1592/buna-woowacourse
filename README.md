@@ -49,7 +49,11 @@
 
 ## 💎 레벨 3 (2023.06.27 ~ 2023.08.18)
 
-### 학습로그
+- [서비스 링크](https://play.google.com/store/apps/details?id=com.emmsale&hl=ko-KR)
+- [Github](https://github.com/woowacourse-teams/2023-emmsale)
+- [Velog 소개](https://velog.io/@kerdy-official/IT-%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4%EC%97%90-%EA%B4%80%EC%8B%AC%EC%9D%B4-%EC%9E%88%EB%8B%A4%EB%A9%B4)
+
+### 글쓰기
 - [레벨3 프로젝트를 마치며..](https://itstory1592.tistory.com/131)
 
 ## 💎 레벨 4 (2023.08.29 ~ 2023.10.30)
