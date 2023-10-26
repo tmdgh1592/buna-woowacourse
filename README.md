@@ -1,6 +1,6 @@
 ## [우아한테크코스](https://www.woowacourse.io/) 학습 과정
 
-## 프리코스
+## 🧤 프리코스 (2022.10.26 ~ 2022.12.17)
 
 |Project|Repository|회고|
 |------|---|---|
@@ -9,7 +9,7 @@
 |다리 건너기|[kotlin-bridge](https://github.com/tmdgh1592/kotlin-bridge/tree/tmdgh1592)|[4주차 회고](https://itstory1592.tistory.com/94)|
 |점심 메뉴 추천(최종 코딩테스트)|[kotlin-menu](https://github.com/tmdgh1592/kotlin-menu/tree/tmdgh1592)|-|
 
-## 레벨 1
+## 💎 레벨 1 (2023.02.07 ~ 2023.03.31)
 
 |Project|Repository|PR|
 |------|---|---|
@@ -18,7 +18,7 @@
 |블랙잭|[kotlin-blackjack](https://github.com/woowacourse/kotlin-blackjack/tree/tmdgh1592)|[1단계 PR](https://github.com/woowacourse/kotlin-blackjack/pull/29) <br> [2단계 PR](https://github.com/woowacourse/kotlin-blackjack/pull/51)|
 |오목|[kotlin-omok](https://github.com/woowacourse/kotlin-omok/tree/tmdgh1592)|[1, 2단계 PR](https://github.com/woowacourse/kotlin-omok/pull/24) <br> [3, 4단계 PR](https://github.com/woowacourse/kotlin-omok/pull/32)|
 
-## 레벨 2
+## 💎 레벨 2 (2023.04.11 ~ 2023.06.09)
 
 |Project|Repository|PR|
 |------|---|---|
@@ -27,10 +27,10 @@
 |쇼핑 장바구니|[android-shopping-cart](https://github.com/woowacourse/android-shopping-cart/tree/tmdgh1592)|[1, 2단계 PR](https://github.com/woowacourse/android-shopping-cart/pull/25) <br> [3, 4단계 PR](https://github.com/woowacourse/android-shopping-cart/pull/45)|
 |쇼핑 주문|[android-shopping-order](https://github.com/woowacourse/android-shopping-order/tree/tmdgh1592)|[1단계 PR](https://github.com/woowacourse/android-shopping-order/pull/22) <br> [2단계 PR](https://github.com/woowacourse/android-shopping-order/pull/26)|
 
-## 레벨 3
+## 💎 레벨 3 (2023.06.27 ~ 2023.08.18)
 
 
-## 레벨 4
+## 💎 레벨 4 (2023.08.29 ~ 2023.10.30)
 
 |Project|Repository|PR|
 |------|---|---|
