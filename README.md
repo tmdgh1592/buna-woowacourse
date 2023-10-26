@@ -28,7 +28,7 @@
 - [최신 Android에서는 왜 MVC패턴을 사용하지 않는가](https://itstory1592.tistory.com/122)
 
 ### 글쓰기
-
+- [우아한테크코스 한 달 생활기](https://github.com/tmdgh1592/woowa-writing-5/blob/tmdgh1592/README.md)
 
 ## 💎 레벨 2 (2023.04.11 ~ 2023.06.09)
 
@@ -43,6 +43,9 @@
 - [ListView vs RecyclerView](https://itstory1592.tistory.com/125)
 - [PendingIntent 공식문서 파헤치기](https://itstory1592.tistory.com/127)
 - [OkHttpClient vs Retrofit](https://itstory1592.tistory.com/130)
+
+### 글쓰기
+- [미션 Focus](https://github.com/tmdgh1592/woowa-writing-5/blob/tmdgh1592/README2.md)
 
 ## 💎 레벨 3 (2023.06.27 ~ 2023.08.18)
 
@@ -63,3 +66,6 @@
 - [Thread간 통신 (using Handler & Looper)](https://velog.io/@buna1592/Android-Thread%EA%B0%84-%ED%86%B5%EC%8B%A0-using-Handler-Looper)
 - [Kerdy 서비스의 이미지 로딩 성능개선](https://velog.io/@buna1592/ycoxuaoq)
 - [Kerdy 서비스 OverDraw 최적화](https://velog.io/@buna1592/Android-Kerdy-%EC%84%9C%EB%B9%84%EC%8A%A4-OverDraw-%EC%B5%9C%EC%A0%81%ED%99%94)
+  
+### 글쓰기
+- [내가 꿈꾸는 프로그래머로서의 삶](https://github.com/tmdgh1592/woowa-writing-5/blob/tmdgh1592/README3.md)
