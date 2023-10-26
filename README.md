@@ -25,7 +25,8 @@
 ### ✏️ 학습로그
 - [const val vs val](https://itstory1592.tistory.com/104)
 - [TDD](https://itstory1592.tistory.com/108)
-- [래퍼클래스 & 일급컬렉션](https://itstory1592.tistory.com/110) / [어디까지 감싸야 하는가](https://itstory1592.tistory.com/116)
+- [래퍼클래스 & 일급컬렉션](https://itstory1592.tistory.com/110)
+- [일급컬렉션, 어디까지 감싸야 하는가](https://itstory1592.tistory.com/116)
 - [점진적 리팩터링](https://itstory1592.tistory.com/115)
 - [최신 Android에서는 왜 MVC패턴을 사용하지 않는가](https://itstory1592.tistory.com/122)
 
