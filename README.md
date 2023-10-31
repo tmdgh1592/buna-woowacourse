@@ -7,7 +7,7 @@
 |Project|Repository|회고|
 |------|---|---|
 |숫자 야구 게임|[kotlin-baseball](https://github.com/tmdgh1592/kotlin-baseball/tree/tmdgh1592)|[2주차 회고](https://itstory1592.tistory.com/92)|
-|로또|[kotlin-lotto](https://github.com/tmdgh1592/kotlin-lotto/tree/tmdgh1592)|[3주차 회고](https://itstory1592.tistory.com/93)|
+|로또|[kotlin-lotto](https://github.com/tmdgh1592/kotlin-lotto-precourse)|[3주차 회고](https://itstory1592.tistory.com/93)|
 |다리 건너기|[kotlin-bridge](https://github.com/tmdgh1592/kotlin-bridge/tree/tmdgh1592)|[4주차 회고](https://itstory1592.tistory.com/94)|
 |점심 메뉴 추천(최종 코딩테스트)|[kotlin-menu](https://github.com/tmdgh1592/kotlin-menu/tree/tmdgh1592)|-|
 
